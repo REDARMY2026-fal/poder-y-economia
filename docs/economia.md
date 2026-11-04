@@ -18,8 +18,8 @@ Se evalúa un modelo mixto: compraventa entre jugadores y empresas, más un merc
 ## Mercado laboral
 Un único sistema de ofertas generales. El empleador publica puesto, skill, experiencia, vacantes, salario y ubicación. Jugadores y NPC pueden competir por las mismas vacantes si cumplen requisitos. Los NPC no vienen incluidos automáticamente con las empresas.
 
-## Protección de jugadores
-Diseñar mecanismos para evitar que NPC desplacen automáticamente a jugadores mediante salarios artificialmente bajos, sin hacer inviable contratar NPC.
+## Política económica y proteccionismo
+El gobierno podrá aplicar políticas de proteccionismo económico, por ejemplo aranceles, límites o condiciones a importaciones, incentivos a productores nacionales y compras públicas. Estas medidas deben tener costos y consecuencias: pueden proteger sectores locales, pero también elevar precios, reducir competencia o generar tensiones comerciales.
 
 ## Despidos
 El jugador conserva skills y experiencia, vuelve al mercado laboral y puede postularse a otras empresas. Su trayectoria laboral queda en su historial público.
