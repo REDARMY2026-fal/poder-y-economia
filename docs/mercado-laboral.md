@@ -17,6 +17,3 @@ Los jugadores desarrollan habilidades y experiencia mediante su trayectoria. Al 
 
 ## NPC
 Dan actividad a la economía cuando hay pocos jugadores, pero su cantidad debe ser limitada y equilibrada por provincia y sector. No se generan automáticamente dentro de cada empresa.
-
-## Protección laboral
-Diseñar mecanismos para que los NPC no sustituyan abusivamente a jugadores mediante salarios artificialmente bajos. Reglas por definir.
